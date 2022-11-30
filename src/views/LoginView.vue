@@ -1,17 +1,18 @@
 <template>
   <Header/>
-  <Segmento/>
+  <Login/>
 </template>
 
 <script>
 // @ is an alias to /src
 import Header from '@/components/Header.vue'
-import Segmento from '@/components/Segmento.vue'
+import Login from '@/components/Login.vue'
 
 export default {
-  name: 'HomeView',
+  name: 'LoginView',
   components: {
-    Header,Segmento
+    Header,Login
   }
+
 }
 </script>
