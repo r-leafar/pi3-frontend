@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <a href="https://youtu.be/aygcg3nvWKk">
+  <a href="https://youtu.be/aygcg3nvWKk" target="_blank">
   <img src="https://raw.githubusercontent.com/r-leafar/pi3-frontend/master/capa1.jpg"/>
    <br>
 </div>
